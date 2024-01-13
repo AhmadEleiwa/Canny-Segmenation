@@ -22,7 +22,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ## Result
-<div>
+<div align='center' >
 <img width="45%" src="my_pic.jpg">
 <img width="45%" src="canny.jpg">
 
