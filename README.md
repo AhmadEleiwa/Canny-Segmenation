@@ -23,7 +23,7 @@ cv2.destroyAllWindows()
 ```
 ## Result
 <div align='center' >
-<img width="45%" src="my_pic.jpg">
-<img width="45%" src="canny.jpg">
+<img width="50%" src="my_pic.jpg">
+<img width="50%" src="canny.jpg">
 
 </div>
